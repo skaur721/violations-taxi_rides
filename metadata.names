@@ -1,0 +1,19 @@
+1. Title: Result Database
+
+2. Number of Instances: 366
+
+3. Number of Attributes: 4 total
+
+4. Attribute Information:     
+     Attribute:                Attribute Range:
+     ------------------        -----------------------------------------------
+  1. Violation Issue Date:     01/01/2016 - 12/31/2016.
+  2. Violations Count:         continuous from 0 to 700000.
+  3. Taxi Pick Up:             01/01/2016 - 12/31/2016.
+  4. Rides Count:              continuous from 0 to 700000.
+
+
+5. Missing Attribute Values: (denoted by "?")
+   Attribute #:   Number of instances missing a value:
+   None 
+
